@@ -1,0 +1,14 @@
+C:\Users\johan\Documents\Webbutveckling år 2\utveckling i c#\uppg3-j-hassberg\obj\Debug\net10.0\uppg3-j-hassberg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Documents\Webbutveckling år 2\utveckling i c#\uppg3-j-hassberg\obj\Debug\net10.0\uppg3-j-hassberg.AssemblyInfoInputs.cache
+C:\Users\johan\Documents\Webbutveckling år 2\utveckling i c#\uppg3-j-hassberg\obj\Debug\net10.0\uppg3-j-hassberg.AssemblyInfo.cs
+C:\Users\johan\Documents\Webbutveckling år 2\utveckling i c#\uppg3-j-hassberg\obj\Debug\net10.0\uppg3-j-hassberg.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\Webbutveckling år 2\utveckling i c#\uppg3-j-hassberg\bin\Debug\net10.0\uppg3-j-hassberg.exe
+C:\Users\johan\Documents\Webbutveckling år 2\utveckling i c#\uppg3-j-hassberg\bin\Debug\net10.0\uppg3-j-hassberg.deps.json
+C:\Users\johan\Documents\Webbutveckling år 2\utveckling i c#\uppg3-j-hassberg\bin\Debug\net10.0\uppg3-j-hassberg.runtimeconfig.json
+C:\Users\johan\Documents\Webbutveckling år 2\utveckling i c#\uppg3-j-hassberg\bin\Debug\net10.0\uppg3-j-hassberg.dll
+C:\Users\johan\Documents\Webbutveckling år 2\utveckling i c#\uppg3-j-hassberg\bin\Debug\net10.0\uppg3-j-hassberg.pdb
+C:\Users\johan\Documents\Webbutveckling år 2\utveckling i c#\uppg3-j-hassberg\obj\Debug\net10.0\uppg3-j-hassberg.dll
+C:\Users\johan\Documents\Webbutveckling år 2\utveckling i c#\uppg3-j-hassberg\obj\Debug\net10.0\refint\uppg3-j-hassberg.dll
+C:\Users\johan\Documents\Webbutveckling år 2\utveckling i c#\uppg3-j-hassberg\obj\Debug\net10.0\uppg3-j-hassberg.pdb
+C:\Users\johan\Documents\Webbutveckling år 2\utveckling i c#\uppg3-j-hassberg\obj\Debug\net10.0\uppg3-j-hassberg.genruntimeconfig.cache
+C:\Users\johan\Documents\Webbutveckling år 2\utveckling i c#\uppg3-j-hassberg\obj\Debug\net10.0\ref\uppg3-j-hassberg.dll
